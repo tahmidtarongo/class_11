@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511855970722",
+    "project_id": "class11-97167",
+    "storage_bucket": "class11-97167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511855970722:android:a4b161f547183f4f35cafb",
+        "android_client_info": {
+          "package_name": "com.maantheme.class_11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBkEX9ID1inVZWecg6gr7muJSbp4SeN4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
